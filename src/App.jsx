@@ -1,13 +1,15 @@
+import About from "./Components/About/About";
 import Footer from "./Components/Footer";
-import Header from "./Components/Header";
-import Main from "./Components/Main";
-import Project from "./Components/Project";
-import Skill from "./Components/Skill";
+import Header from "./Components/Header/Header";
+import Intro from "./Components/Intro";
+import Project from "./Components/Projects/Project";
+import Skill from "./Components/Skill/Skill";
 function App() {
   return (
     <>
       <Header />
-      <Main />
+      <Intro />
+      <About />
       <Skill />
       <Project />
       <Footer />

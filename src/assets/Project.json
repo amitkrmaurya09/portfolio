@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Weather App",
+      "repoLink": "https://github.com/user/weather-app",
+      "liveLink": "https://user.github.io/weather-app",
+      "technology": ["React", "WeatherAPI", "CSS"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Task Manager",
+      "repoLink": "https://github.com/user/task-manager",
+      "liveLink": "https://user.github.io/task-manager",
+      "technology": ["Vue", "Vuex", "Tailwind CSS"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "E-commerce Site",
+      "repoLink": "https://github.com/user/e-commerce-site",
+      "liveLink": "https://user.github.io/e-commerce-site",
+      "technology": ["React", "Redux", "Material-UI"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "repoLink": "https://github.com/user/portfolio-website",
+      "liveLink": "https://user.github.io/portfolio-website",
+      "technology": ["HTML", "CSS", "JavaScript"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "Social Media Dashboard",
+      "repoLink": "https://github.com/user/social-media-dashboard",
+      "liveLink": "https://user.github.io/social-media-dashboard",
+      "technology": ["Angular", "NgRx", "Bootstrap"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "title": "Chat Application",
+      "repoLink": "https://github.com/user/chat-application",
+      "liveLink": "https://user.github.io/chat-application",
+      "technology": ["React", "Socket.io", "Node.js"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "title": "Finance Tracker",
+      "repoLink": "https://github.com/user/finance-tracker",
+      "liveLink": "https://user.github.io/finance-tracker",
+      "technology": ["React", "Firebase", "Tailwind CSS"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "title": "Recipe Finder",
+      "repoLink": "https://github.com/user/recipe-finder",
+      "liveLink": "https://user.github.io/recipe-finder",
+      "technology": ["React", "API", "Sass"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "title": "Blog Platform",
+      "repoLink": "https://github.com/user/blog-platform",
+      "liveLink": "https://user.github.io/blog-platform",
+      "technology": ["Next.js", "Markdown", "Tailwind CSS"],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "title": "Music Player",
+      "repoLink": "https://github.com/user/music-player",
+      "liveLink": "https://user.github.io/music-player",
+      "technology": ["React", "Redux", "Styled-Components"],
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
