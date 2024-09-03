@@ -17,8 +17,22 @@
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     },
     {
+      "name": "jquery",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+    },
+    {
       "name": "React",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+
+    {
+      "name": "Tailwind CSS",
+      "image": " https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      
+    },
+    {
+      "name": "Sass",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
     },
     {
       "name": "Node.js",
@@ -27,11 +41,6 @@
     {
       "name": "Express",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-    },
-    {
-      "name": "Tailwind CSS",
-      "image": " https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-          
     },
     {
         "name": "PostgreSQL",
@@ -47,10 +56,24 @@
         "name": "GitHub",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     },
+    {
+      "name": "C",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    },
+    {
+      "name": "C++",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    },
 
     {
-      "name": "Sass",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      "name": "MaterialUi",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
+    },
+    {
+      "name": "JSON",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
     }
+
+
 ]
   
