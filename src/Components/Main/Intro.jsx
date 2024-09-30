@@ -9,9 +9,8 @@ export default function Main() {
       <div className=" p-6 rounded-lg ">
         <h1 className="text-gray-800 text-6xl font-bold">Amit kumar</h1>
         <p className="text-2xl ">Build your online presence <br /> I'm here to help you...</p>
-        <a href='./AmitResume.pdf' download='2.pdf'>
-        <button className="shadow-md shadow-gray-300 mt-3 px-3 text-xl border rounded-md hover:bg-slate-300 " >Resume</button>
-      </a>
+      
+ 
       </div>
       <img className="h-96 w-96   shadow-white " src={ProfileImage} alt="profile logo" />
     </div>
